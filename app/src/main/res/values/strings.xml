@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Placement</string>
+    <string name="enter_email_mobile_no">Enter Email/Mobile No</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="content_forgot_password">Just Provide us your Email Address below.</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="otp_message">OTP will be sent to your provided details.</string>
+    <string name="login_error">Login Failed. Try again!!</string>
+    <string name="login_idle">Login</string>
+    <string name="validation">Id and Password can\'t be less then 4 words.</string>
+    <string name="wrong_credentials">Wrong Credentials</string>
+    <string name="enter_id_pass">Enter Id and password</string>
+    <string name="verify_phNo">Verify Your Number</string>
+    <string name="str_enterCode">Enter the code we just sent you to verify the account</string>
+    <string name="chge_pass">Change Password</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="submit">Submit</string>
+    <string name="placement">Placement\n App</string>
+
+    <string-array name="company">
+        <item>Select</item>
+        <item>AppSquadz</item>
+        <item>HCL</item>
+    </string-array>
+
+</resources>
