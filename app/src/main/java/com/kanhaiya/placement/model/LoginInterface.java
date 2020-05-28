@@ -18,9 +18,9 @@ import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.GET;
 import retrofit2.http.POST;
 
-public interface LoginInterface {
-    String BASE_URL = "http://192.168.43.224/placement/index.php/api/users/";
-    String BASE_URL_HOME = "http://192.168.43.224/placement/index.php/api/home/";
+public interface  LoginInterface {
+    String BASE_URL = "http://192.168.43.213/placement/index.php/api/users/";
+    String BASE_URL_HOME = "http://192.168.43.213/placement/index.php/api/home/";
 
 
     @FormUrlEncoded

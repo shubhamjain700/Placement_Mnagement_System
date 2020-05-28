@@ -51,7 +51,7 @@
             android:background="@drawable/edt_bg"
             android:gravity="center"
             android:hint="Total marks"
-            android:textColor="#ffffff"
+            android:textColor="#ffff00"
             android:textColorHint="#000000" />
 
     </LinearLayout>
